@@ -1,1 +1,2 @@
-# Go-Basic-Notes
+Waiting's golang basic knowledge notes
+
