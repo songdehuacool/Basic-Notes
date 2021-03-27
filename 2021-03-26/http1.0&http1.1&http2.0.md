@@ -18,7 +18,7 @@
    + HTTP1.1：支持；
     
 5. 缓存处理   
-   + HTTP1.0：无；
+   + HTTP1.0：主要使用header里的If-Modified-Since,Expires来做为缓存判断的标准；
    + HTTP1.1：有Entity tag、if-Match等控制策略，有ETag头域、Cache-Control头域、Vary头域；
     
 6. 错误提示
