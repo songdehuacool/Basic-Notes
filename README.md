@@ -12,3 +12,7 @@ Waiting's golang basic knowledge notes
 
 ### 2021-03-26
 - [x] [简述 HTTP 1.0，1.1，2.0 的主要区别](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-03-26/http1.0%26http1.1%26http2.0.md)
+
+### 2021-03-37
+- [x] [简述 TCP 的 TIME_WAIT](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-03-27/time_wait.md)
+- [X] [什么是 SYN Flood，如何防止这类攻击？](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-03-27/syn_flood.md)
