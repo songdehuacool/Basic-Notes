@@ -20,3 +20,6 @@ Waiting's golang basic knowledge notes
 ### 2021-03-28
 - [x] [HTTP 中 GET 和 POST 区别](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-03-28/get%26post.md)
 - [x] [HTTP 的方法有哪些？](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-03-28/http-method.md)
+
+### 2021-03-29
+- [x] [TCP怎么保证可靠性传输？](https://github.com/mrsongindezhou/Basic-Notes/tree/main/2021-03-29)
