@@ -26,3 +26,6 @@ Waiting's golang basic knowledge notes
 
 ### 2021-03-30
 - [x] [RestFul和RPC的区别](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-03-30/RestFul%26RPC.md)
+
+### 2021-04-01
+- [x] [MySQL 为什么使用 B+ 树来作索引，对比 B 树它的优点和缺点是什么？](https://github.com/mrsongindezhou/Basic-Notes/tree/main/2021-04-01)
