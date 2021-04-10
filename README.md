@@ -30,5 +30,8 @@ Waiting's golang basic knowledge notes
 ### 2021-04-01
 - [x] [MySQL 为什么使用 B+ 树来作索引，对比 B 树它的优点和缺点是什么？](https://github.com/mrsongindezhou/Basic-Notes/tree/main/2021-04-01)
 
+### 2021-04-06
+- [x] [网络](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-04-06/net.md)
+
 ### 2021-04-10
 - [x] [数据库的事务隔离级别有哪些？各有哪些优缺点？](https://github.com/mrsongindezhou/Basic-Notes/blob/main/2021-04-10/TransactionIsolation.md)
